@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Statue Of Liberty",
+    "image": "https://images.unsplash.com/photo-1503572327579-b5c6afe5c5c5?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8U3RhdHVlJTIwT2YlMjBMaWJlcnR5fGVufDB8fDB8fHww",
+    "category": "Sculpture",
+    "rating": "4.5"
+  },
+  {
+    "name": "Times Square",
+    "image": "https://images.unsplash.com/photo-1541535650810-10d26f5c2ab3?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHRpbWVzJTIwc3F1YXJlJTIwbmV3JTIweW9ya3xlbnwwfHwwfHx8MA%3D%3D",
+    "category": "Street",
+    "rating": "5"
+  },
+{
+    "name": "Central Park",
+    "image": "https://plus.unsplash.com/premium_photo-1681377835632-fe537691f5f3?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fENlbnRyYWwlMjBQYXJrJTIwbmV3JTIweW9ya3xlbnwwfHwwfHx8MA%3D%3D",
+    "category": "Park",
+    "rating": "4.5"
+  },
+  {
+    "name": "Metropolitan Museum Of Art",
+    "image": "https://media1.thrillophilia.com/filestore/sd3nsitawmhmlm4ks7urx0woom2z_1618909432_shutterstock_560354767.jpg?w=753&h=450&dpr=2.0",
+    "category": "Museum",
+    "rating": "4"
+  },
+{
+    "name": "Broadway And The Theater District",
+    "image": "https://media1.thrillophilia.com/filestore/wh72bshqo1g1d9o1eit303cvzw1p_1618909522_shutterstock_71745475.jpg?w=753&h=450&dpr=2.0",
+    "category": "Landmark",
+    "rating": "4.5"
+  },
+{
+    "name": "The Museum Of Modern Art",
+    "image": "https://media1.thrillophilia.com/filestore/dtyzh8cwzu85jrpntuiq3001w9eu_1618910455_shutterstock_186667103.jpg?w=753&h=450&dpr=2.0",
+    "category": "Art Museum",
+    "rating": "4.5"
+  },
+{
+    "name": "World Trade Center",
+    "image": "https://media1.thrillophilia.com/filestore/p51zl8a1qb49xcaqlcokzzucx98i_1618910550_shutterstock_418161391.jpg?w=753&h=450&dpr=2.0",
+    "category": "Landmark",
+    "rating": "4.5"
+  },
+
+{
+    "name": "Rockefeller Center",
+    "image": "https://media1.thrillophilia.com/filestore/7yrmtxs8eo7zagosnm24y3x1aaik_1618910619_shutterstock_123029515.jpg?w=753&h=450&dpr=2.0",
+    "category": "Landmark",
+    "rating": "4.5"
+  },
+{
+    "name": "Empire State Building",
+    "image": "https://media1.thrillophilia.com/filestore/g39oq6s06isknbvkxl9jvauiklt3_1618910718_shutterstock_139761958.jpg?w=753&h=450&dpr=2.0",
+    "category": "Building",
+    "rating": "4.5"
+  },
+{
+    "name": "9/11 Memorial And Museum",
+    "image": "https://media1.thrillophilia.com/filestore/hiyacohecenxc14h1cm951f51prj_1618910829_shutterstock_1344629441.jpg?w=753&h=450&dpr=2.0",
+    "category": "Memorial",
+    "rating": "4.5"
+  },
+]
