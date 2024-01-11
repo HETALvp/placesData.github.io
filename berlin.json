@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Reichstag Building",
+    "image": "https://images.unsplash.com/photo-1564992236692-63602c83ee19?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8UmVpY2hzdGFnJTIwQnVpbGRpbmd8ZW58MHx8MHx8fDA%3D",
+    "category": "Architectural Buildings",
+    "rating": "4.5"
+  },
+  {
+    "name": "Brandenburg Gate",
+    "image": "https://images.unsplash.com/photo-1587330979470-3595ac045ab0?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8QnJhbmRlbmJ1cmclMjBHYXRlfGVufDB8fDB8fHww",
+    "category": "Monument",
+    "rating": "4"
+  },
+{
+    "name": "Topography of Terror",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/1c/74/e9/caption.jpg?w=1400&h=-1&s=1",
+    "category": "Museum",
+    "rating": "4.5"
+  },
+  {
+    "name": "The Holocaust Memorial",
+    "image": "https://images.unsplash.com/photo-1586817853289-17d48e296554?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aG9sb2NhdXN0JTIwbWVtb3JpYWx8ZW58MHx8MHx8fDA%3D",
+    "category": "Monument",
+    "rating": "4"
+  },
+{
+    "name": "Memorial of the Berlin Wall",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/b6/30/6f/memorial-of-the-berlin.jpg?w=2000&h=-1&s=1",
+    "category": "Historic Sites",
+    "rating": "4.5"
+  },
+{
+    "name": "Pergamonmuseum",
+    "image": "https://images.unsplash.com/photo-1668535453365-9ae8cc3784c4?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8UGVyZ2Ftb25tdXNldW18ZW58MHx8MHx8fDA%3D",
+    "category": "Art Museum",
+    "rating": "4.5"
+  },
+{
+    "name": "East Side Gallery",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/81/58/8a/caption.jpg?w=800&h=-1&s=1",
+    "category": "Landmark",
+    "rating": "4.5"
+  },
+
+{
+    "name": "Friedrichstadt-Palast",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/7f/37/57/humans-of-our-time.jpg?w=1400&h=-1&s=1",
+    "category": "Theatre",
+    "rating": "4.5"
+  },
+{
+    "name": "Museum Island",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/5a/f0/d6/museum-island.jpg?w=2000&h=-1&s=1&cx=991&cy=440&chk=v1_2ba60cd793ba70a72934",
+    "category": "Historical Building",
+    "rating": "4.5"
+  },
+{
+    "name": "Berliner Dom",
+    "image": "https://images.unsplash.com/photo-1649816742683-1b6cb697c892?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YmVybGluZXIlMjBkb218ZW58MHx8MHx8fDA%3D",
+    "category": "Cathedral",
+    "rating": "4.5"
+  },
+]
