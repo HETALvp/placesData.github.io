@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Burj Khalifa",
+    "image": "https://media2.thrillophilia.com/images/photos/000/128/498/original/1526900367_burj_khalifa.jpg?w=753&h=450&dpr=1.5",
+    "category": "Sculpture",
+    "rating": "4.5"
+  },
+  {
+    "name": "Palm Jumeirah",
+    "image": "https://media2.thrillophilia.com/images/photos/000/145/761/original/1581764610_shutterstock_1233013318.jpg?w=753&h=450&dpr=1.5",
+    "category": "Islands",
+    "rating": "5"
+  },
+{
+    "name": "Museum of the Future",
+    "image": "https://media2.thrillophilia.com/images/photos/000/192/809/original/1689753879_shutterstock_1912618783.jpg?w=753&h=450&dpr=1.5",
+    "category": "Museum",
+    "rating": "4.5"
+  },
+  {
+    "name": "Desert Safari ",
+    "image": "https://media2.thrillophilia.com/images/photos/000/385/667/original/1661760818_Dubai_Desert_Safari.jpg.jpg?w=753&h=450&dpr=1.5",
+    "category": "Safari",
+    "rating": "4"
+  },
+{
+    "name": "Dubai Aquarium",
+    "image": "https://media2.thrillophilia.com/images/photos/000/128/499/original/1526900386_Dubai_aquarium.jpg?w=753&h=450&dpr=1.5",
+    "category": "Aquarium",
+    "rating": "4.5"
+  },
+{
+    "name": "Dubai Fountain",
+    "image": "https://media2.thrillophilia.com/images/photos/000/145/373/original/1550210653_GettyImages-560047305-e1496269248358.jpg?w=753&h=450&dpr=1.5",
+    "category": "Fountain",
+    "rating": "4.5"
+  },
+{
+    "name": "Dubai Mall",
+    "image": "https://media2.thrillophilia.com/images/photos/000/128/500/original/1526900410_Dubai_Mall._jpg.jpg?w=753&h=450&dpr=1.5",
+    "category": "Shopping",
+    "rating": "4.5"
+  },
+
+{
+    "name": "Burj Al Arab",
+    "image": "https://media2.thrillophilia.com/images/photos/000/060/386/original/8383767654_e871cd9afc_o.jpg?w=753&h=450&dpr=1.5",
+    "category": "Sculpture",
+    "rating": "4.5"
+  },
+{
+    "name": "Dubai Marina",
+    "image": "https://media2.thrillophilia.com/images/photos/000/105/926/original/1527068774_shutterstock_657144271.jpg?w=753&h=450&dpr=1.5",
+    "category": "Bay",
+    "rating": "4.5"
+  },
+{
+    "name": "Dubai Frame",
+    "image": "https://media2.thrillophilia.com/images/photos/000/160/294/original/1561704518_1.jpg?w=753&h=450&dpr=1.5",
+    "category": "Sculpture",
+    "rating": "4.5"
+  },
+]
