@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Marine Drive",
+    "image": "https://media2.thrillophilia.com/images/photos/000/040/939/original/1521614653_places_to_visit_in_Mumbai.jpg?w=753&h=450&dpr=1.5",
+    "category": "Landmark",
+    "rating": "4.5"
+  },
+  {
+    "name": "Gateway of India",
+    "image": "https://media2.thrillophilia.com/images/photos/000/040/923/original/1556284488_shutterstock_214982728.jpg?w=753&h=450&dpr=1.5",
+    "category": "Monument",
+    "rating": "5"
+  },
+{
+    "name": "Colaba Causeway Market",
+    "image": "https://media2.thrillophilia.com/images/photos/000/112/868/original/1499433921_Colaba-Causeway.jpg?w=753&h=450&dpr=1.5",
+    "category": "Shopping",
+    "rating": "4.5"
+  },
+  {
+    "name": "Juhu Beach",
+    "image": "https://media2.thrillophilia.com/images/photos/000/040/938/original/8557930298_89c85ff23a_o.jpg?w=753&h=450&dpr=1.5",
+    "category": "Beach",
+    "rating": "4"
+  },
+{
+    "name": "Elephanta Caves",
+    "image": "https://media1.thrillophilia.com/filestore/qj62nh68fativk30jny3i6osrzgw_1524229348_Elephanta_caves.jpg?w=753&h=450&dpr=2.0",
+    "category": "Historic Caves",
+    "rating": "4.5"
+  },
+{
+    "name": "Essel World",
+    "image": "https://media1.thrillophilia.com/filestore/1d3cnjrs0bfe7aaa8crfm1mrkuun_1524230096_Essel_World.jpg?w=753&h=450&dpr=2.0",
+    "category": "Amusement Park",
+    "rating": "4.5"
+  },
+{
+    "name": "Worli Seaface",
+    "image": "https://media2.thrillophilia.com/images/photos/000/041/052/original/1602662542_shutterstock_702408349.jpg?w=753&h=450&dpr=1.5",
+    "category": "Sculpture",
+    "rating": "4.5"
+  },
+
+{
+    "name": "Dharavi Slum",
+    "image": "https://media2.thrillophilia.com/images/photos/000/041/050/original/1552117634_Dharavi_Slum.jpg?w=753&h=450&dpr=1.5",
+    "category": "Slum",
+    "rating": "4.5"
+  },
+{
+    "name": "Kanheri Caves",
+    "image": "https://media2.thrillophilia.com/images/photos/000/112/874/original/1602665366_shutterstock_603506636.jpg?w=753&h=450&dpr=1.5",
+    "category": "Caves",
+    "rating": "4.5"
+  },
+{
+    "name": "Gorai Beach",
+    "image": "https://media2.thrillophilia.com/images/photos/000/112/864/original/1602665480_shutterstock_1429009025.jpg?w=753&h=450&dpr=1.5",
+    "category": "Beach",
+    "rating": "4.5"
+  },
+]
